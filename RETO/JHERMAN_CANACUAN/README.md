@@ -1,0 +1,1 @@
+Este laboratorio contiene una vulnerabilidad de inyección de SQL. Las capturas presentadas desde la parte de abajo hasta la primera imagen muestran los pasos a seguir para identificar la vulnerabilidad y tener acceso tanto al primer campo de la tabla users y password
