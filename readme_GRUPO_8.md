@@ -1,4 +1,4 @@
-# Resumen y Justificación del Repositorio SQLMap
+# Resumen y Justificación del Repositorio SQLMap - ABERTO CARRASCO
 
 ![Texto alternativo](https://www.vaadata.com/blog/wp-content/uploads/2024/05/exploiting-sqli-with-sqlmap.png)
 
