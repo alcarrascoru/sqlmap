@@ -1,5 +1,7 @@
 # Resumen y Justificación del Repositorio SQLMap
 
+![Texto alternativo](https://www.vaadata.com/blog/wp-content/uploads/2024/05/exploiting-sqli-with-sqlmap.png)
+
 ## Resumen
 
 **SQLMap** es una herramienta de código abierto utilizada para la detección y explotación de vulnerabilidades de inyección SQL en aplicaciones web. Su principal función es automatizar el proceso de identificación y explotación de estas vulnerabilidades, lo que permite a los profesionales de ciberseguridad evaluar la seguridad de las bases de datos y tomar medidas correctivas.
